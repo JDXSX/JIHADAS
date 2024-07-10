@@ -1,8 +1,1 @@
-def m1():
-    s = "[FBAN/FB4A;FBAV/{};FBBV/{}]".format(
-        str(random.randint(49, 66)) + '.0.0.' + str(random.randrange(20, 49)) + str(random.randint(11, 99)),
-        str(random.randint(11111111, 77777777))
-    )
-    e = "+[FBAN/FB4A;FBAV/277.23.72.29;FBPN/com.facebook.orca;FBLC/en_US;FBBV/567956430;FBCR/Orange;FBMF/samsung;FBBD/samsung;FBDV/Xiaomi Mi 11;FBSV/13;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.5,width=1920,height=2280};FB_FW/1;FBRV/468097616]"
-    ua = s + e
-    return ua
+سبيب
